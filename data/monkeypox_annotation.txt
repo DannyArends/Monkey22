@@ -1,0 +1,76 @@
+ID	Organism	Sub-Type	Host	Continent	Country	State	Year
+ON563414.1	Orthopoxvirus	Monkey22	Homo sapiens	North America	USA	Massachusetts	2022
+ON563414.2	Orthopoxvirus	Monkey22	Homo sapiens	North America	USA	Massachusetts	2022
+MT903344.1	Orthopoxvirus	Monkey22	Homo sapiens	Europe	UK	Great Britain	2022
+KJ642615.1	Orthopoxvirus		Homo sapiens	West Africa	Nigeria		1978
+KJ642617.1	Orthopoxvirus		Homo sapiens	West Africa	Nigeria		1971
+MK783029.1	Orthopoxvirus		Homo sapiens	West Africa	Nigeria	Rivers State	2017
+MK783031.1	Orthopoxvirus		Homo sapiens	West Africa	Nigeria	Rivers State	2017
+MG693724.1	Orthopoxvirus		Homo sapiens	West Africa	Nigeria		2017
+MT903340.1	Orthopoxvirus		Homo sapiens	West Africa	Nigeria	Rivers State	2018
+MT903338.1	Orthopoxvirus		Homo sapiens	West Africa	Nigeria	Lagos State	2018
+MT903343.1	Orthopoxvirus		Homo sapiens	Europe	UK	Great Britain	2018
+MT903345.1	Orthopoxvirus		Homo sapiens	Europe	UK	Great Britain	2018
+MN648051.1	Orthopoxvirus		Homo sapiens	Middle East	Israel		2018
+MT903341.1	Orthopoxvirus		Homo sapiens	West Africa	Nigeria	Bayelsa State	2018
+MT250197.1	Orthopoxvirus		Homo sapiens	Asia	Singapore		2019
+MT903342.1	Orthopoxvirus		Homo sapiens	Asia	Singapore		2018
+MT903337.1	Orthopoxvirus		Homo sapiens	West Africa	Nigeria		2018
+MT903339.1	Orthopoxvirus		Homo sapiens	West Africa	Nigeria	Delta State	2019
+MK783027.1	Orthopoxvirus		Homo sapiens	West Africa	Nigeria	Rivers State	2017
+DQ011153.1	Orthopoxvirus		Homo sapiens	North America	USA	Wisconsin	2003
+DQ011157.1	Orthopoxvirus		Homo sapiens	North America	USA	Wisconsin	2003
+KJ642614.1	Orthopoxvirus		Homo sapiens	Europe	Netherlands		1965
+KJ642616.1	Orthopoxvirus	PCH	Homo sapiens	Europe	France	Paris	1968
+AY603973.1	Orthopoxvirus		Homo sapiens	Asia	Singapore		1959
+AY753185.1	Orthopoxvirus	COP-58	Homo sapiens	West Africa	Congo		1958
+AY741551.1	Orthopoxvirus		Homo sapiens	West Africa	Sierra Leone		1970
+KP849470.1	Orthopoxvirus		Homo sapiens	West Africa	Ivory Coast		1971
+DQ011156.1	Orthopoxvirus		Homo sapiens	West Africa	Liberia		1970
+NC_003310.1	Orthopoxvirus		Homo sapiens	Central Africa	Zaire		1996
+JX878428.1	Orthopoxvirus		Homo sapiens	Central Africa	Congo		2007
+JX878426.1	Orthopoxvirus		Homo sapiens	Central Africa	Congo		2007
+JX878427.1	Orthopoxvirus		Homo sapiens	Central Africa	Congo		2007
+KP849471.1	Orthopoxvirus		Homo sapiens	Central Africa	Congo	Yambuku	1985
+KP849469.1	Orthopoxvirus		Homo sapiens	Central Africa	Congo	Boende	2008
+MN702453.1	Orthopoxvirus		Homo sapiens	Central Africa	CAR	A1 S	2001
+MN702450.1	Orthopoxvirus		Homo sapiens	Central Africa	CAR	B1 S	2016
+MN702451.1	Orthopoxvirus		Homo sapiens	Central Africa	CAR	A6 S	2017
+MN702449.1	Orthopoxvirus		Homo sapiens	Central Africa	CAR	B2 S	2016
+MN702448.1	Orthopoxvirus		Homo sapiens	Central Africa	CAR	C15 S	2018
+MN072620.1	Capripoxvirus	GTPV	Capra hircus	Asia	India	Chiplima	1983
+MN072621.1	Capripoxvirus	GTPV	Capra hircus	Asia	Vietnam		2005
+MN072625.1	Capripoxvirus	GTPV	Capra hircus	Asia	Yemen		1983
+MN072629.1	Capripoxvirus	SPPV	Capra hircus	Europe / Asia	Turkey		1983
+MN072628.1	Capripoxvirus	SPPV	Capra hircus	West Africa	Nigeria		1977
+MN072619.1	Capripoxvirus	LSDV	Bos taurus	East Africa	Kenya		1958
+MG693725.1	Orthopoxvirus		Homo sapiens	West Africa	Nigeria		2017
+NC_005309.1	Avipoxvirus	Canarypox 	Serinus canaria	North America	USA	New Jersey	1948
+MF678796.1	Avipoxvirus	Flamingopox 	Phoenicoparrus minor	Southern Africa	South Africa		2008
+KT159937.1	Salmonpoxvirus	Salmonpox	Salmo salar	Europe	Norway		2012
+MK035757.1	Orthopoxvirus	Cowpox 	Rattus norvegicus	Europe	Germany	Muenchen	2009
+MK035753.1	Orthopoxvirus	Cowpox 	Homo sapiens	Europe	France	Epinal	2009
+LT896732.2	Orthopoxvirus	Cowpox 	Lama pacos	Europe	Germany		2017
+MH607142.1	Orthopoxvirus	Akhmeta	Homo sapiens	Europe	Georgia	Akhmeta	2013
+MN244298.1	Orthopoxvirus	Akhmeta	Apodemus flavicollis	Europe	Georgia	Akhmeta	2016
+MN244296.1	Orthopoxvirus	Akhmeta	Apodemus uralensis	Europe	Georgia	Gudauri	2016
+MH607143.1	Orthopoxvirus	Akhmeta	Homo sapiens	Europe	Georgia	Vani	2010
+NC_031033.1	Orthopoxvirus	Volepox	Microtus californicus	North America	USA	California	1985
+NC_027213.1	Orthopoxvirus	Raccoonpox 	Procyon lotor	North America	USA		1964
+MH816996.1	Orthopoxvirus	Abatino	Macaca tonkeana	Europe	Italy		2015
+KY349117.1	Orthopoxvirus	Horsepox vaccine	BGMK cells	North America	Canada		2016
+LR800245.1	Orthopoxvirus	Variola	monopartite	Europe	Denmark	Copenhagen	S2020
+LR800244.1	Orthopoxvirus	Variola	monopartite	Europe	Denmark	Copenhagen	S2020
+DQ441447.1	Orthopoxvirus	Variola Butler	Homo sapiens	Europe	UK	Clifton 	1952
+DQ441437.1	Orthopoxvirus	Variola V68-258	Homo sapiens	West Africa	Sierra Leone		1969
+DQ437585.1	Orthopoxvirus	Variola Vellore	Homo sapiens	Asia	India	Vellore	1964
+DQ441429.1	Orthopoxvirus	Variola Yamada	Homo sapiens	Asia	Japan		1946
+DQ441423.1	Orthopoxvirus	Variola v74-227	Homo sapiens	Central Africa	Congo		1970
+DD211553.1	Avipoxvirus	Fowlpox vaccine					2005
+NC_028238.1	Avipoxvirus	Turkeypox 	Meleagris gallopavo	Europe	Hungary		2011
+KJ801920.1	Avipoxvirus	Pigeonpox FeP2	Columba livia	Southern Africa	South Africa		S2014
+NC_031465.1	Marseillevirus	Golden Marseillevirus	Acanthamoeba sp.	South America	Brazil 	Limnoperna fortunei	2014
+MT978051.1	Poxviridae	Mudlarkpox	Grallina cyanoleuca	Australia	Australia		2019
+MT724772.1	Orthopoxvirus		Funisciurus anerythrus	Central Africa	Congo		2014
+MN702444.1	Orthopoxvirus	A5 SPADES	Homo sapiens	Central Africa	CAR		2017
+MN702445.1	Orthopoxvirus	A4 SPADES	Homo sapiens	Central Africa	CAR		2017
